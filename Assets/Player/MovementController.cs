@@ -12,8 +12,6 @@ namespace Player
         private const float ZeroThreshold = 1e-3f;
         private const string HorizontalAxis = "Horizontal";
 
-        public float acceleration, direction, evaluated, toEvaluate;
-
         [SerializeField] private RealtimeTester realtime;
         [SerializeField] private JumpValues     jumpValues;
         [SerializeField] private GravityValues  gravityValues;
