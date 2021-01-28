@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 666288e4ca9f4d75b5f567569876e77d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - realtime: {fileID: 11400000, guid: b7429677d93e8ee48a0cb324e9e71094, type: 2}
+  - jumpValues: {fileID: 11400000, guid: a49b8bfeed5a4b07ae04d97261ff6466, type: 2}
+  - gravityValues: {fileID: 11400000, guid: 105e1ce28bca43f7af5ba6f950c3746f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
