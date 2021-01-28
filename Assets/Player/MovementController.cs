@@ -16,11 +16,6 @@ namespace Player
 
         [SerializeField] private AnimationCurve accelerationOverSpeed;
 
-        private float _currentTime;
-        private Vector2 _previousVelocity;
-        private float _currentSpeed;
-
-        private GravityForce _gravityForce;
         private Rigidbody2D  _rigidbody;
 
         private void Awake()
