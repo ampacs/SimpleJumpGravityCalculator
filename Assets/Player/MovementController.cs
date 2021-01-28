@@ -1,7 +1,5 @@
-﻿using System.Runtime.InteropServices;
-using Physics.Gravity;
+﻿using Physics.Gravity;
 using Player.Data;
-using TMPro;
 using UnityEngine;
 
 namespace Player
