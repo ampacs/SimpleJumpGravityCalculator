@@ -6,12 +6,12 @@ An example scene can be found at Scenes/ExampleScene where a test playground and
 
 ## Gravity Force Calculator
  
- Physics/Gravity/GravityForceCalculator
+ Located at `Physics/Gravity/GravityForceCalculator`
  
  Allows calculating the upwards and downwards gravity forces necessary for achieving the given jump parameters: jump height, time and apex fraction
  
 ## Jump Force Calculator
 
- Physics/Jump/JumpForceCalculator
+ Located at `Physics/Jump/JumpForceCalculator`
  
  Allows calculating the necessary initial impulse for the player to reach the target jump height for the given gravity and mass 
